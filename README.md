@@ -1,7 +1,7 @@
-![ACDC Solomon Logo](public/logo-Av2.svg)
+![ACDC Logo](public/logo-Av2.svg)
 
-**ACDC.digital is an artifical-intellegence research agency putting our adopted learning into practice to enable small businesses insights to advantages they wouldn't have known about otherwise.**
-Host repository for Soloist application. 
+**Introduces:** 
+# Soloist.
 
 ## Our Architecture
 
